@@ -37,7 +37,6 @@ import {
   usePlateEditor,
 } from '@udecode/plate/react';
 import { editorPlugins } from '../plugins/editor-plugins';
-import { withPlaceholders } from '../components/placeholder';
 
 export const useCreateEditor = ({
   plugins,
